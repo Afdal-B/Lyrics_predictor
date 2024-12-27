@@ -1,6 +1,6 @@
 # Lyrics Predictor Using LSTMs
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![Python](https://img.shields.io/badge/Python-%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
 ![Keras](https://img.shields.io/badge/Keras-2.3.0%2B-red)
 ![NumPy](https://img.shields.io/badge/NumPy-1.18%2B-lightgrey)
